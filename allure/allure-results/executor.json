@@ -1,0 +1,9 @@
+{
+  "name": "GitHub Actions",
+  "type": "github",
+  "buildOrder": 5,
+  "buildName": "Build #5",
+  "buildUrl": "",
+  "reportUrl": "",
+  "reportName": "Allure Report"
+}
